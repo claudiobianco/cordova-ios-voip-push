@@ -18,6 +18,9 @@
         <config-file target="*-Info.plist" parent="UIBackgroundModes">                  
             <array>
                 <string>voip</string>
+                <string>audio</string>
+                <string>fetch</string>
+                <string>remote-notification</string>
             </array>
         </config-file>
 
